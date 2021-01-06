@@ -1,0 +1,15 @@
+body {
+    background-color: darkseagreen;
+}
+
+h1 {
+    color: maroon;
+}
+
+.friend {
+    background:slategray;
+}
+
+.friend > h3 {
+    text-transform: uppercase;
+}
